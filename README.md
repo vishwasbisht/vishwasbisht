@@ -6,6 +6,19 @@
 
 I'm a passionate developer focused on building intuitive, responsive, and high-performance user interfaces. I use this space to document my ongoing learning, build out full-stack projects, and contribute to the open-source community, specializing in modern Frontend Development.
 
+## 💻 My Toolbox & Skills
+
+| Category | Skills & Expertise |
+| :--- | :--- |
+| **Core Skills** | **Frontend Devlopment and REST API** |
+| **Language Toolbox** | **Javascript,Python,Tailwind Css,CSS,HTML** |
+| **Frameworks and Libraries** | **React,Selenium** |
+
+## 🌱 Currently Exploring
+
+- Deepening knowledge in **Backend Development in Next Js and Nodejs"
+- Practicing  in **Frontend Projects** 
+
 <h3 align="left">My Current Focus:</h3>
 
 🔭 I’m currently working on: Student Result Management System
