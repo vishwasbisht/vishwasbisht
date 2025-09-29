@@ -29,10 +29,10 @@ I'm a passionate developer focused on building intuitive, responsive, and high-p
 
 💬 Ask me about: Frontend architecture and UI development
 
-📫 How to reach me: vishwasbisht711@gmail.com
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 💼 [LinkedIn](https://www.linkedin.com/in/vishwas-bisht)
+  - 📫 [vishwasbisht711@gmail.com](mailto:vishwasbisht711@gmail.com)
 <!-- You can add social icons here if desired, like: -->
 <!-- <a href="https://www.google.com/search?q=https://linkedin.com/in/yourprofile" target="blank"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a> -->
 </p>
