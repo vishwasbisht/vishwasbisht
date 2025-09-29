@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwasbisht&label=Profile%20views&color=0e75b6&style=flat" alt="vishwasbisht" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwasbisht" alt="vishwasbisht" /></a> </p>
 
 - 🔭 I’m currently working on [Student Result Management](https://github.com/RishHub1337/student_result_management_system)
 
