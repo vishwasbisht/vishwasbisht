@@ -39,9 +39,5 @@ I'm a passionate developer focused on building intuitive, responsive, and high-p
 
 ⚡ Fun fact: I have a genuine thrill for learning. My favorite topic is always the one I haven't studied yet.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- You can add social icons here if desired, like: -->
-<!-- <a href="https://www.google.com/search?q=https://linkedin.com/in/yourprofile" target="blank"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a> -->
-</p>
+
 
