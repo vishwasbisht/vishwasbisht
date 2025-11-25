@@ -10,9 +10,9 @@ I'm a passionate developer focused on building intuitive, responsive, and high-p
 
 | Category | Skills & Expertise |
 | :--- | :--- |
-| **Core Skills** | **Frontend Devlopment and REST API** |
+| **Core Skills** | **Devloper AND Scrapper** |
 | **Language Toolbox** | **Javascript,Python,Tailwind Css,CSS,HTML** |
-| **Frameworks and Libraries** | **React,Selenium** |
+| **Frameworks and Libraries** | **React,Selenium,playwright** |
 
 ## 🌱 Currently Exploring
 
