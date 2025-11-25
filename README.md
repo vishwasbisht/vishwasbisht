@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwas Bisht</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate  Developer from India</h3>
 
 <p align="left"> <img src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gifv" alt="vishwasbisht" /> </p>
 
