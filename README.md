@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gifv" alt="vishwasbisht" /> </p>
 
 
-I'm a passionate developer focused on building intuitive, responsive, and high-performance user interfaces. I use this space to document my ongoing learning, build out full-stack projects, and contribute to the open-source community, specializing in modern Frontend Development.
+I'm a passionate developer focused on building intuitive, responsive, and high-performance user interfaces. I use this space to document my ongoing learning, build out full-stack projects, and contribute to the open-source community, specializing in modern Frontend Development,Web Scrapping and Web Automation.
 
 ## 💻 My Toolbox & Skills
 
@@ -17,13 +17,13 @@ I'm a passionate developer focused on building intuitive, responsive, and high-p
 ## 🌱 Currently Exploring
 
 - Deepening knowledge in **Backend Development in Next Js and Nodejs"
-- Practicing  in **Frontend Projects** 
+- Practicing  in **Frontend Projects AND Web Automation** 
 
 <h3 align="left">My Current Focus:</h3>
 
 🔭 I’m currently working on: Student Result Management System
 
-🌱 I’m currently learning: React.js, Next.js, GSAP, and Tailwind CSS
+🌱 I’m currently learning: React.js, Next.js, GSAP, and Tailwind CSS 
 
 👨‍💻 All of my projects are available at: https://github.com/vishwasbisht
 
